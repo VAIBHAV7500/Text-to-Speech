@@ -1,0 +1,12 @@
+c:\users\vaibhav\source\repos\STT\STT\bin\Debug\STT.exe.config
+c:\users\vaibhav\source\repos\STT\STT\bin\Debug\STT.exe
+c:\users\vaibhav\source\repos\STT\STT\bin\Debug\STT.pdb
+c:\users\vaibhav\source\repos\STT\STT\bin\Debug\STT.xml
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.vbprojResolveAssemblyReference.cache
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.Form1.resources
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.Resources.resources
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.vbproj.GenerateResource.Cache
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.vbproj.CoreCompileInputs.cache
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.exe
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.xml
+c:\users\vaibhav\source\repos\STT\STT\obj\Debug\STT.pdb
